@@ -5,6 +5,7 @@ public class HolaMundo {
 		// TODO Esbozo de método generado automáticamente
 		
 		System.out.println("Hola Mundo");
+		System.out.println("Bienvenidos...");
 
 	}
 

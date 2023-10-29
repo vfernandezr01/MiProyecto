@@ -15,6 +15,8 @@ public class HolaPersona {
 		
 		System.out.println("Hola " + nombre);
 		
+		System.out.println("Bienvenido...");
+		
 		sc.close();
 
 	}
