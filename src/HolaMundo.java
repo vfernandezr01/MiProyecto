@@ -2,10 +2,11 @@
 public class HolaMundo {
 
 	public static void main(String[] args) {
-		// TODO Esbozo de mÈtodo generado autom·ticamente
+		// TODO Esbozo de m√©todo generado autom√°ticamente
 		
 		System.out.println("Hola Mundo");
 		System.out.println("Bienvenidos...");
+		System.out.println("La suma de 5 m√°s 2 es igual a: " + (5+2));
 
 	}
 
