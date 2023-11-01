@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class HolaPersona {
 
 	public static void main(String[] args) {
-		// TODO Esbozo de mÈtodo generado autom·ticamente
+		// TODO Esbozo de m√©todo generado autom√°ticamente
 		
 		Scanner sc=new Scanner(System.in);
 	
